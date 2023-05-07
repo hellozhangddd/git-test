@@ -6,6 +6,7 @@ public class gittest {
         System.out.println("hhhhhhh");
         System.out.println("hhhh");
         System.out.println("hhhh4");
+        System.out.println("master test");
         System.out.println("hot test");
     }
 }
